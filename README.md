@@ -1,0 +1,2 @@
+# ngrxCounter
+Implemented Ngrx Counter 
